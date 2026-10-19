@@ -1,0 +1,9 @@
+{
+  "messages": [
+    {
+      "id": "v0.5.8",
+      "title": "Novedades en v0.5.8",
+      "body": "• Refractor ahora se actualiza solo: cuando haya una versión nueva te la ofrece al volver al inicio, y también puedes buscarla en Personalizar → Actualizaciones.\n• Las novedades de cada versión aparecen aquí, una sola vez."
+    }
+  ]
+}
