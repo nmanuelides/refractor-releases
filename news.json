@@ -9,6 +9,11 @@
       "id": "v0.5.9",
       "title": "Novedades en v0.5.9",
       "body": "• Las actualizaciones se buscan solas una vez al día.\n• Personalizar → Actualizaciones tiene un botón para buscarlas cuando quieras, y muestra cuándo fue la última búsqueda.\n• Después de actualizar, las novedades de la versión aparecen enseguida."
+    },
+    {
+      "id": "v0.5.10",
+      "title": "Novedades en v0.5.10",
+      "body": "• Google Discover vuelve: Google ahora solo conecta su feed con apps del sistema, así que Refractor usa una app chiquita, Refractor Feed, que hace de puente (como el Google Companion de Nova).\n• Si tienes Discover activado, instálala desde Personalizar → Cuadrícula y páginas → Instalar Refractor Feed. Al activar Discover, Refractor te ofrece instalarla."
     }
   ]
 }
