@@ -14,6 +14,11 @@
       "id": "v0.5.10",
       "title": "Novedades en v0.5.10",
       "body": "• Google Discover vuelve: Google ahora solo conecta su feed con apps del sistema, así que Refractor usa una app chiquita, Refractor Feed, que hace de puente (como el Google Companion de Nova).\n• Si tienes Discover activado, instálala desde Personalizar → Cuadrícula y páginas → Instalar Refractor Feed. Al activar Discover, Refractor te ofrece instalarla."
+    },
+    {
+      "id": "v0.5.11",
+      "title": "Novedades en v0.5.11",
+      "body": "• El calendario y las agendas cambian de día a la medianoche aunque el teléfono haya estado dormido (antes podían quedarse en el día anterior por horas)."
     }
   ]
 }
