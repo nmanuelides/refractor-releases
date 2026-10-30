@@ -29,6 +29,11 @@
       "id": "v0.6.0",
       "title": "Novedades en v0.6.0",
       "body": "• Nuevo widget \"Reloj flip y clima\": tarjetas que pasan como un reloj flip, sobre vidrio refractivo con el lugar, la máxima y mínima del día, la temperatura y el clima.\n• Colores configurables: números, fondo de los números, textos y tinte del vidrio (mantener presionado → Colores del widget)."
+    },
+    {
+      "id": "v0.6.1",
+      "title": "Novedades en v0.6.1",
+      "body": "• Reloj flip y clima más fiel al original: tarjetas casi cuadradas en un marco plateado con las hojas apiladas detrás, sombras hacia la bisagra, ejes a los lados y sombra suave sobre el vidrio. El vidrio arranca justo debajo del borde de las tarjetas y el clima va debajo.\n• Textura escarchada configurable en el vidrio del widget.\n• Clima: usa cualquier fuente de ubicación del dispositivo, y \"Actualizar clima\" avisa qué pasa. Si el permiso de ubicación quedó rechazado, abre los ajustes para activarlo."
     }
   ]
 }
