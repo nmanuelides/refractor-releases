@@ -19,6 +19,11 @@
       "id": "v0.5.11",
       "title": "Novedades en v0.5.11",
       "body": "• El calendario y las agendas cambian de día a la medianoche aunque el teléfono haya estado dormido (antes podían quedarse en el día anterior por horas)."
+    },
+    {
+      "id": "v0.5.12",
+      "title": "Novedades en v0.5.12",
+      "body": "• Hasta 16 columnas en el inicio (ideal para tablets).\n• Los widgets se pueden achicar hasta una sola celda y redimensionar en cualquier dirección."
     }
   ]
 }
