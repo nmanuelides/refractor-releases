@@ -24,6 +24,11 @@
       "id": "v0.5.12",
       "title": "Novedades en v0.5.12",
       "body": "• Hasta 16 columnas en el inicio (ideal para tablets).\n• Los widgets se pueden achicar hasta una sola celda y redimensionar en cualquier dirección."
+    },
+    {
+      "id": "v0.6.0",
+      "title": "Novedades en v0.6.0",
+      "body": "• Nuevo widget \"Reloj flip y clima\": tarjetas que pasan como un reloj flip, sobre vidrio refractivo con el lugar, la máxima y mínima del día, la temperatura y el clima.\n• Colores configurables: números, fondo de los números, textos y tinte del vidrio (mantener presionado → Colores del widget)."
     }
   ]
 }
