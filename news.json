@@ -39,6 +39,11 @@
       "id": "v0.6.2",
       "title": "Novedades en v0.6.2",
       "body": "• Reloj flip: sin marco; ahora se ven las hojas apiladas detrás asomando arriba y abajo de cada tarjeta, y las tarjetas se hunden hacia el pliegue como en el original.\n• El vidrio del reloj flip tiene todos los ajustes de los demás vidrios (refracción, borde, brillo del borde, escarchado y textura, sombra, tinte, redondez) y copiar/pegar estilo.\n• Clima: si no hay permiso de ubicación o el dispositivo no la da, usa la ciudad aproximada de tu conexión, así el reloj siempre muestra el clima.\n• El parallax del fondo y el brillo dinámico del vidrio siguen la orientación de la pantalla: en horizontal, inclinar hacia adelante mueve todo hacia arriba y no hacia un costado."
+    },
+    {
+      "id": "v0.6.3",
+      "title": "Novedades en v0.6.3",
+      "body": "• Los bordes de la cuadrícula del inicio se alinean con la barra del dock: los contenedores y widgets pegados a los costados quedan parejos con ella. El margen lateral del dock ajusta los dos."
     }
   ]
 }
