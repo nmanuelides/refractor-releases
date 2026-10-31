@@ -34,6 +34,11 @@
       "id": "v0.6.1",
       "title": "Novedades en v0.6.1",
       "body": "• Reloj flip y clima más fiel al original: tarjetas casi cuadradas en un marco plateado con las hojas apiladas detrás, sombras hacia la bisagra, ejes a los lados y sombra suave sobre el vidrio. El vidrio arranca justo debajo del borde de las tarjetas y el clima va debajo.\n• Textura escarchada configurable en el vidrio del widget.\n• Clima: usa cualquier fuente de ubicación del dispositivo, y \"Actualizar clima\" avisa qué pasa. Si el permiso de ubicación quedó rechazado, abre los ajustes para activarlo."
+    },
+    {
+      "id": "v0.6.2",
+      "title": "Novedades en v0.6.2",
+      "body": "• Reloj flip: sin marco; ahora se ven las hojas apiladas detrás asomando arriba y abajo de cada tarjeta, y las tarjetas se hunden hacia el pliegue como en el original.\n• El vidrio del reloj flip tiene todos los ajustes de los demás vidrios (refracción, borde, brillo del borde, escarchado y textura, sombra, tinte, redondez) y copiar/pegar estilo.\n• Clima: si no hay permiso de ubicación o el dispositivo no la da, usa la ciudad aproximada de tu conexión, así el reloj siempre muestra el clima.\n• El parallax del fondo y el brillo dinámico del vidrio siguen la orientación de la pantalla: en horizontal, inclinar hacia adelante mueve todo hacia arriba y no hacia un costado."
     }
   ]
 }
